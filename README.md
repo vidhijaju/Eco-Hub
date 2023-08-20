@@ -26,6 +26,6 @@ The header images are dimmed using the filter property to achieve a certain visu
 - Each page has a central top text section that is vertically and horizontally centered.
 - The top navigation bar's active page is highlighted with a distinct background color.
 - The background color of all pages is a consistent warm tone.
-- 
+  
 Getting Started:
 To explore this website, simply click on the links provided for each page above. Feel free to navigate through the different sections and experience the unique design of each page.
