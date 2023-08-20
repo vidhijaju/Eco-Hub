@@ -1,0 +1,104 @@
+/* CSS file used for styling all pages */
+
+/* Styles the top image and text that is placed on the top image */
+.top > a:hover {
+    background-color: purple;
+}
+
+.top > a:active {
+    background-color: grey;
+}
+
+/* Styling for header images */
+.header-images {
+    height: 400px;
+    width: 1300px;
+    filter: brightness(30%);
+    position: relative;
+}
+
+/* Styling for top section */
+.top {
+    position: relative;
+    text-align: center;
+}
+
+/* Styling for center-aligned top text */
+.centre-top {
+    color: white;
+    font-size: 75px;
+    position: absolute;
+    top: 34%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Styling for top text */
+.top-text {
+    position: absolute;
+    color: lightgrey;
+    font-size: 20px;
+}
+
+/* Positioning for top-right links */
+.top-right {
+    top: 10px;
+}
+
+/* Positioning for specific top-right links */
+.home-top-right {
+    left: 20%;
+}
+
+.game-top-right {
+    left: 40%;
+}
+
+.resources-top-right {
+    left: 55%;
+}
+
+.contact-top-right {
+    left: 75%;
+}
+
+/* Styling for logo in top-right */
+.logo-top-right {
+    left: 2%;
+    height: 100px;
+    width: 100px;
+    top: 0px;
+}
+
+/* Styling for h2 headers */
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+/* Styling for paragraphs */
+p {
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+/* Styling for buttons */
+button {
+    display: block;
+    margin: 0 auto;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+/* Styles text of the page that user is on, on the top navigation bar */
+.selected-page {
+    background-color: #b19cd8;
+    padding: 5px;
+}
+
+/* Adds background colour to all pages of the website */
+body {
+    background-color: #c8b7a6;
+}
